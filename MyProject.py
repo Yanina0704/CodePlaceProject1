@@ -1,4 +1,4 @@
-MAX_NUMBER = 50
+MAX_NUMBER = 100
 
 def even_numbers():
     i = 2
